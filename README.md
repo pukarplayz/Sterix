@@ -68,7 +68,7 @@ Configure your entire server visually through our upcoming dashboard:
 
 - 📚 Full Command List & Setup Guides: [Docs](https://www.sterixbot.xyz/docs)
 - 💬 Need help? [Join Support Server](https://discord.gg/E5j3WvtdxS)
-- 📩 Contact: `Pukar#0001`
+- 📩 Contact: `pukaradhikari_#0001`
 
 ---
 
@@ -76,7 +76,7 @@ Configure your entire server visually through our upcoming dashboard:
 
 > Developed by [**Pukar Adhikari**](https://pukar-adhikari.com.np)  
 > Languages: `Python`, `discord.py`, `SQLite`, `HTML`  
-> Part of the [Solovent Project](https://pukar-adhikari.com.np/)
+> Part of the [NYRON TEAM](https://pukar-adhikari.com.np/)
 
 ---
 
