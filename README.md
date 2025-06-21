@@ -1,75 +1,96 @@
-# 🤖 Sterix — Your Server’s Ultimate Guardian & Toolkit
+<p align="center">
+  <img src="https://iili.io/FzKross.md.png" alt="Sterix Banner" width="90%"/>
+</p>
 
-Sterix is a next-generation **multipurpose Discord bot** built to **protect**, **manage**, and **enhance** your community. From **powerful security systems** to **essential utility features**, Sterix is tailored for serious server owners who demand control, safety, and simplicity — all in one place.
+<h1 align="center">🤖 Sterix — Your Server’s Ultimate Guardian & Toolkit</h1>
 
-![Sterix Banner](https://iili.io/FzKross.md.png)
+<p align="center">
+  A powerful, modern multipurpose Discord bot built to <strong>protect</strong>, <strong>manage</strong>, and <strong>empower</strong> your server with advanced security, moderation, and utility tools.
+</p>
+
+<p align="center">
+  <a href="https://discord.com/oauth2/authorize?client_id=1286376669770420304&permissions=27853778687&scope=bot+applications.commands">
+    <img src="https://img.shields.io/badge/Invite-Sterix-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Invite Sterix">
+  </a>
+  <a href="https://discord.gg/E5j3WvtdxS">
+    <img src="https://img.shields.io/discord/123456789?label=Support%20Server&logo=discord&color=5865F2&style=for-the-badge" alt="Support Server">
+  </a>
+  <a href="https://www.sterixbot.xyz/docs">
+    <img src="https://img.shields.io/badge/Docs-sterixbot.xyz-00B2FF?style=for-the-badge" alt="Documentation">
+  </a>
+</p>
 
 ---
 
-## ✨ Key Features
+## ✨ Features at a Glance
 
-### 🔐 Security & Protection
-- 🛡️ Anti-Nuke & Anti-Raid Defense
-- 🚫 AutoMod: Advanced Filters, Link Blocking, and more
-- 🔒 Instant Server Lockdown, Channel Lock & Mass Ban Controls
+### 🔐 Security First
+- Anti-Nuke / Anti-Raid defense
+- Server lockdowns, role/channel protections
+- AutoMod: link filters, caps, spam prevention
 
-### 🛠️ Moderation Tools
-- ⚒️ Ban, Kick, Mute, Warn, Nuke, Purge
-- 📁 **Case System** – Log, View, Edit, or Delete moderation actions
-- 📰 Customizable Moderation Logs
+### 🛠️ Modern Moderation
+- Commands: `ban`, `kick`, `warn`, `mute`, `lock`, `nuke`, etc.
+- 🗂️ Case Logging System: View, Edit, Delete moderation actions
+- Fully configurable mod-logs & action tracking
 
-### ⚙️ Utility & Server Management
-- 👋 Auto-Roles, Welcome & Leave Systems
-- 🎟️ **Ticket System** – Panel-based, fully customizable
-- 📊 Server Info, User Lookup, Uptime Monitor & more
+### ⚙️ Utility & Server Tools
+- Autoroles, Welcome/Leave Messages
+- Reaction Role Panel & Ticket System
+- Member info, server stats, and uptime checker
 
-### 🌟 Premium Experience
-- 🔓 Unlock Extended Rate Limits & Logging History
-- 🎯 Advanced Anti-Nuke Configuration
-- 🧩 Premium Modules & Exclusive Server Tools
+### 🌟 Premium Unlocks
+- Unlock enhanced anti-nuke controls
+- Priority rate limits, advanced logs
+- Premium-only modules & role-based unlocks
 
 ---
 
 ## 🚀 Getting Started
 
-1. [➕ Invite Sterix](https://discord.com/oauth2/authorize?client_id=1286376669770420304&permissions=27853778687&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FE5j3WvtdxS&integration_type=0&scope=applications.commands.permissions.update+bot+applications.commands)
-2. Use `/antinuke` to secure your server
-3. Explore features using `/help`
+1. [Click here to invite Sterix](https://discord.com/oauth2/authorize?client_id=1286376669770420304&permissions=27853778687&scope=bot+applications.commands)
+2. Run `/antinuke` to secure your server
+3. Use `/help` to explore available commands
 
 ---
 
-## 🖥️ Dashboard (Coming Soon)
+## 🌐 Dashboard (Coming Soon)
 
-Sterix's upcoming dashboard at [**sterixbot.xyz**](https://www.sterixbot.xyz) will let you:
+Configure your entire server visually through our upcoming dashboard:
 
-- 🔧 Configure settings via UI
-- 🧾 Manage Tickets, Logs & Roles
-- 🔍 View Case History & Server Analytics
+🔗 [https://www.sterixbot.xyz](https://www.sterixbot.xyz)
 
-> *Full launch planned for 2025 Q3*
+> Coming Q3 2025 — Stay Tuned!
 
 ---
 
-## 🆘 Support & Community
+## 🧠 Documentation & Support
 
-Need help or want to contribute feedback?
-
-- 💬 [Join the Support Server](https://discord.gg/E5j3WvtdxS)
-- 📚 [Read the Docs](https://www.sterixbot.xyz/docs)
-- ✉️ Contact Developer: `Pukar#0001`
+- 📚 Full Command List & Setup Guides: [Docs](https://www.sterixbot.xyz/docs)
+- 💬 Need help? [Join Support Server](https://discord.gg/E5j3WvtdxS)
+- 📩 Contact: `Pukar#0001`
 
 ---
 
-## 💼 Developer Info
+## 👨‍💻 About the Developer
 
-- 👤 **Created by:** [Pukar Adhikari](https://pukar-adhikari.com.np/)
-- 🛠️ Tech Stack: `Python`, `discord.py`, `SQLite`, `HTML`
-- 🌐 Other Projects: [Solovent](https://pukar-adhikari.com.np/)
+> Developed by [**Pukar Adhikari**](https://pukar-adhikari.com.np)  
+> Languages: `Python`, `discord.py`, `SQLite`, `HTML`  
+> Part of the [Solovent Project](https://pukar-adhikari.com.np/)
+
+---
+
+## 🚫 Self Hosting?
+
+Sterix is a **closed-source project**. Self-hosting is currently **not allowed** and not supported.
 
 ---
 
 ## 📌 License
 
-**Sterix** is a **closed-source** project. Any form of unauthorized resale, reproduction, or distribution is strictly prohibited.
+Sterix is © 2021–2025 by Pukar Adhikari.  
+Reproduction, resale, or redistribution of the code or services without permission is strictly prohibited.
 
-> © 2021–2025 Sterix by Pukar Adhikari. All Rights Reserved.
+---
+
+<p align="center"><i>Thank you for trusting Sterix to protect and enhance your community.</i></p>
