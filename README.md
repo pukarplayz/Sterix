@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Invite-Sterix-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Invite Sterix">
   </a>
   <a href="https://discord.gg/E5j3WvtdxS">
-    <img src="https://img.shields.io/discord/123456789?label=Support%20Server&logo=discord&color=5865F2&style=for-the-badge" alt="Support Server">
+    <img src="https://img.shields.io/discord/1348317122484244610?label=Support%20Server&logo=discord&color=5865F2&style=for-the-badge" alt="Support Server">
   </a>
   <a href="https://www.sterixbot.xyz/docs">
     <img src="https://img.shields.io/badge/Docs-sterixbot.xyz-00B2FF?style=for-the-badge" alt="Documentation">
