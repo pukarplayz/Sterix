@@ -88,7 +88,7 @@ Sterix is a **closed-source project**. Self-hosting is currently **not allowed**
 
 ## 📌 License
 
-Sterix is © 2021–2025 by Pukar Adhikari.  
+Sterix is © 2024–2025 by Pukar Adhikari.  
 Reproduction, resale, or redistribution of the code or services without permission is strictly prohibited.
 
 ---
