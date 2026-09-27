@@ -15,8 +15,8 @@
   <a href="https://discord.gg/E5j3WvtdxS">
     <img src="https://img.shields.io/discord/1348317122484244610?label=Support%20Server&logo=discord&color=5865F2&style=for-the-badge" alt="Support Server">
   </a>
-  <a href="https://www.sterixbot.xyz/docs">
-    <img src="https://img.shields.io/badge/Docs-sterixbot.xyz-00B2FF?style=for-the-badge" alt="Documentation">
+  <a href="https://www.letsterix.xyz/docs">
+    <img src="https://img.shields.io/badge/Docs.letsterix.xyz?style=for-the-badge" alt="Documentation">
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 
 Configure your entire server visually through our upcoming dashboard:
 
-🔗 [https://www.sterixbot.xyz](https://www.sterixbot.xyz)
+🔗 [https://www.letsterix.xyz](https://www.letsterix.xyz)
 
 > Coming Q3 2025 — Stay Tuned!
 
@@ -66,9 +66,9 @@ Configure your entire server visually through our upcoming dashboard:
 
 ## 🧠 Documentation & Support
 
-- 📚 Full Command List & Setup Guides: [Docs](https://www.sterixbot.xyz/docs)
+- 📚 Full Command List & Setup Guides: [Docs](https://www.letsterix.xyz/docs)
 - 💬 Need help? [Join Support Server](https://discord.gg/E5j3WvtdxS)
-- 📩 Contact: `pukaradhikari_#0001`
+- 📩 Contact: `itwasyoupanda#0001`
 
 ---
 
